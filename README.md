@@ -13,7 +13,7 @@ A curated list of awesome Aztec resources, libraries, tools and more
   How to install Aztec Sandbox.
 - [Tutorials](https://docs.aztec.network/dev_docs/tutorials/main) -
   Tutorials for writing various projects on Aztec.
-- [Noir](https://noir-lang.org/) - Official Noir language documentation.
+- [Noir-lang](https://noir-lang.org/) - Official Noir language documentation.
 
 #### Ecosystem
 
@@ -22,6 +22,8 @@ A curated list of awesome Aztec resources, libraries, tools and more
 
 #### Articles
 
+- [What is Aztec & Noir](https://hackmd.io/XZX9_pZ8Q1aa_ySDPeQopg) - Understanding the Technical Aspects of Aztec and Noir
+
 #### Tutorials
 
 ##### Deployed on Aztec Mainnet
@@ -29,6 +31,9 @@ A curated list of awesome Aztec resources, libraries, tools and more
 #### Security
 
 #### Examples
+
+- [noir-starter](https://github.com/noir-lang/noir-starter) - Boilerplate projects that are good templates for starting your own Noir project.
+- [noir-examples](https://github.com/noir-lang/noir-examples) - A reference repo to help you get started with writing zero-knowledge circuits with Noir.
 
 #### Jobs
 
