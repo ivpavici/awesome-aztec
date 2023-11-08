@@ -6,17 +6,14 @@ A curated list of awesome Aztec resources, libraries, tools and more
 
 #### Official
 
-Discorde linkove ubacit
-
-- [Aztec Documentation](https://docs.aztec.network/) -
-  Official Documentation.
+- [Aztec Documentation](https://docs.aztec.network/) - Official Documentation.
 - [Aztec Medium](https://medium.com/@azteclabs) - Official Aztec Medium Account.
 - [Forum](https://discourse.aztec.network/) - Official Forum.
-- [Setting up the environment](https://docs.aztec.network/dev_docs/getting_started/quickstart) -
-  How to install Aztec Sandbox.
-- [Tutorials](https://docs.aztec.network/dev_docs/tutorials/main) -
-  Tutorials for writing various projects on Aztec.
+- [Setting up the environment](https://docs.aztec.network/dev_docs/getting_started/quickstart) - How to install Aztec Sandbox.
 - [Noir-lang](https://noir-lang.org/) - Official Noir language documentation.
+- [Aztec Discord](https://discord.com/invite/DgWG2DBMyB) - Official Aztec Discord.
+- [Noir Discord](https://discord.com/invite/JtqzkdeQ6G) - Official Noir Discord.
+- [Grant Program](https://aztec.network/grants/) - The Aztec Labs Grants Program supports developers building with, and contributing to, the Noir programming language and the Aztec network.
 
 #### Ecosystem
 
@@ -31,7 +28,12 @@ Discorde linkove ubacit
 
 #### Tutorials
 
+- [Official Aztec tutorials](https://docs.aztec.network/dev_docs/tutorials/main) - Tutorials for writing various projects on Aztec.
+
 #### Templates
+
+- [aztec-boxes](https://github.com/AztecProtocol/aztec-packages/tree/master/yarn-project/boxes) - Quick-starts for Aztec smart contract developers, containing simple Noir smart contracts and front-ends.
+- [noir-starter](https://github.com/noir-lang/noir-starter) - Boilerplate projects that are good templates for starting your own Noir project.
 
 ##### Deployed on Aztec Mainnet
 
@@ -39,10 +41,13 @@ Discorde linkove ubacit
 
 #### Examples
 
-- [noir-starter](https://github.com/noir-lang/noir-starter) - Boilerplate projects that are good templates for starting your own Noir project.
 - [noir-examples](https://github.com/noir-lang/noir-examples) - A reference repo to help you get started with writing zero-knowledge circuits with Noir.
 
 #### Jobs
+
+#### Workshops
+
+- [Learn Noir in an Afternoon](https://www.youtube.com/watch?v=4yktQB7uevg&t=25933s) - @ DappCon Berlin 2023.
 
 ## Libraries
 
@@ -51,11 +56,13 @@ Discorde linkove ubacit
 
 ## Tools
 
+#### General
+
 - [Aztec CLI](https://www.npmjs.com/package/@aztec/cli) - A command-line interface (CLI) tool for interacting with Aztec.
 - [Sandbox](https://github.com/AztecProtocol/aztec-packages/tree/master/yarn-project/aztec-sandbox) - A package for setting up a local dev net, including a local Ethereum network, deployed rollup contracts and Aztec execution environment.
 - [Nargo](https://noir-lang.org/getting_started/nargo_installation/) - A a command line tool for interacting with Noir programs (e.g. compiling, proving, verifying and more).
 
-#### General
+#### Utility
 
 ## Editor Plugins
 
