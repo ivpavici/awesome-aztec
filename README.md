@@ -40,6 +40,7 @@
 #### Tutorials
 
 - [Official Aztec tutorials](https://docs.aztec.network/dev_docs/tutorials/main) - Tutorials for writing various projects on Aztec.
+- [Noir Guardians](https://www.noirguardians.io/) - Noir version of the Node Guardians interactive tutorial.
 
 #### Templates
 
